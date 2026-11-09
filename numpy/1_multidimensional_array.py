@@ -9,14 +9,14 @@ array = np.array([
                     ['D', 'Z', 'F']],
                 ])
 
-# # * Use 'ndim' to check how many dimensions are in the array
-# print(array.ndim)
-# print(array)
+# * Use 'ndim' to check how many dimensions are in the array
+print(array.ndim)
+print(array)
 
-# # use the 'shape' attribute. 
-# # it returns a tuple of integers
-# # it is formatted in (row, column, depth)
-# print(array.shape)
+# use the 'shape' attribute. 
+# it returns a tuple of integers
+# it is formatted in (row, column, depth)
+print(array.shape)
 
 # Indexing
 print(array[0][1][1]) # You can use this conventional way

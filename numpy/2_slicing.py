@@ -8,10 +8,10 @@ print(array)
 print("\n\n")
 
 
-# # Syntax: [start: end: step]
-# print(array[::-2])
-# print("\n\n")
-# print(array[::2])
+# Syntax: [start: end: step]
+print(array[::-2])
+print("\n\n")
+print(array[::2])
 
 # If you want to select an index from all rows of the array
 # Remember that the syntax is always array[ROW, COLUMN]
