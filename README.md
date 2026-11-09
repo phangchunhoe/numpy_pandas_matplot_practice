@@ -1,4 +1,4 @@
-# Python Practice for learning `NumPy`, `Pandas` and `MatPlot`
+# Python Practice for learning `NumPy`, `Pandas` and `MatPlotLib`
 
 ### For learning Machine Learning and Artificial Intelligence
 #### Note: 
