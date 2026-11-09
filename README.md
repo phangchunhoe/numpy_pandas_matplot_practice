@@ -12,6 +12,3 @@ Example:
 ``` bash
 py -3.13 ./6_sets.py
 ```
-
-## Notes:
-- `Pandas` = `Panel Data`
